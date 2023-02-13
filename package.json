@@ -16,6 +16,7 @@
     "@strapi/plugin-documentation": "^4.6.0",
     "@strapi/plugin-i18n": "4.6.0",
     "@strapi/plugin-users-permissions": "4.6.0",
+    "@strapi/provider-upload-cloudinary": "^4.6.1",
     "@strapi/strapi": "4.6.0",
     "pg": "^8.9.0",
     "strapi-plugin-responsive-image": "^1.0.0",
